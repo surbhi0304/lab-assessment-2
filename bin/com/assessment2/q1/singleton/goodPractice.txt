@@ -1,0 +1,8 @@
+1. static member
+    for the instance of singleton class
+    
+ 2. Private constructor
+    prevent from instantiate singleton class
+    
+3. static public method
+   provides global access to singleton object 
